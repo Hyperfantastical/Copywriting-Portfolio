@@ -1,0 +1,45 @@
+**Client Type:** Fictional fintech app ("VaultPay")
+**Goal:** Reduce user anxiety during money transfers and clarify confusing error states.
+
+---
+
+### 1. Primary Call-to-Action Buttons (Variations)
+
+| Context | Button Text | Why it works |
+| :--- | :--- | :--- |
+| Send Money | **Confirm Transfer** | "Confirm" feels safer than "Send" for large amounts. |
+| Withdraw Funds | **Withdraw to Bank** | Clarity reduces support tickets about where the money goes. |
+| Add Payment Method | **Add Card** | Short, skimmable, obvious. |
+
+---
+
+### 2. Error Messages (Turning Frustration into Action)
+
+**Scenario:** User enters an expired credit card.
+
+**Bad Version:** *"Error. Invalid card."* (Vague, scary.)
+
+**Good Version (What we use):**
+> **Oops, that card expired.** 
+> Please check the expiration date or try a different card. Your funds are safe—nothing has been charged.
+
+---
+
+**Scenario:** User tries to send $5,000 but has a $2,000 daily limit.
+
+**Bad Version:** *"Transaction declined."* (Panic-inducing.)
+
+**Good Version (What we use):**
+> **Daily limit reached.** 
+> You can send up to $2,000 per day. Want to split this into multiple days, or verify your ID to raise your limit?
+> [Button: Split Payment] | [Button: Verify ID Now]
+
+---
+
+### 3. Empty States (When a user has no data yet)
+
+**Scenario:** User opens the "Transaction History" tab for the first time.
+
+> **Nothing here yet—and that's a good thing.**
+> Your first transaction will appear here once you send or receive money. Ready to get started?
+> [Button: Send Money]
