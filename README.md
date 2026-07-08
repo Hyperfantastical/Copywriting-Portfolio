@@ -1,25 +1,3 @@
-# Raina Boykin – Copywriting Portfolio
-
-**Clear, Persuasive, and AI-Ready Copy**
-
-Welcome to my copywriting portfolio. With 20+ years in operations, video production, and quality assurance, I specialize in writing that converts, educates, and builds trust—across any medium or brand voice.
-
----
-
-## 🧠 Why This Matters for AI Training
-
-Great copywriting is the backbone of high-quality AI prompts, RLHF (Reinforcement Learning from Human Feedback), and tone calibration.
-
-I don't just write well—I understand how to:
-- Evaluate AI outputs for clarity and persuasion
-- Identify and correct bias or flat phrasing in generative models
-- Adapt tone across professional, friendly, and edgy voices
-- Structure prompts to elicit specific, high-quality responses
-
-These skills make me a dual-threat candidate for AI Trainer roles: I bring both **technical data evaluation** and **creative editorial judgment**.
-
----
-
 ## 📂 Table of Contents
 
 | # | Sample | What It Demonstrates | Status |
@@ -56,7 +34,3 @@ I'm currently seeking remote roles in:
 - Data Quality Analyst / Operations Analyst
 
 **Open to full-time, contract, and freelance opportunities.**
-
----
-
-*Last Updated: July 2026*
