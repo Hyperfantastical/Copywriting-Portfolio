@@ -1,38 +1,3 @@
-# Sample 9: AI Output Correction & Rewriting
-
-**Task:** An AI generated a product description, but it was clunky, repetitive, and lacked persuasive flow. Below is the "before" (AI output) and my "after" (Human-Edited version). 
-**Why this matters:** AI trainers frequently need to rewrite poor model outputs to train better versions.
-
----
-
-### Original AI-Generated Text (Clunky & Repetitive)
-> "This is a very good coffee maker. It is a coffee maker that makes coffee very fast. It has a glass carafe. The glass carafe can hold 12 cups of coffee. It has a digital display. The digital display shows the time. It is easy to use. We think you will like it."
-
----
-
-### My Edited Version (Persuasive & Fluent)
-
-**Headline:** The Perfect Cup, in Half the Time.
-
-Tired of waiting 10 minutes for mediocre drip coffee? 
-
-Meet the **Apex Velocity Brewer**—engineered for speed without sacrificing temperature stability. Unlike standard machines that lose heat mid-brew, our dual-thermocoil system maintains a precise 198°F from the first drop to the last.
-
-**Built for the morning rush:**
-- 12-Cup Glass Carafe: Brew enough for the whole family or meal-prep for iced coffee tomorrow.
-- Intuitive Digital Display: Program it the night before so you wake up to the aroma of fresh roast.
-
-Push a button. Get perfection. It's that simple.
-
----
-
-### Annotator's Notes (For AI Evaluation)
-- **Original Flaws**: Passive voice, redundant phrasing, lack of sensory language, no benefit-driven structure.
-- **Corrections Applied**: Added a benefit-first headline, used specific technical details (thermocoil, 198°F), varied sentence length for rhythm, and included a lifestyle hook.
-- **Why This Matters**: Teaching AI to avoid "fluff" and "repetition" requires human editors who can spot these exact patterns.
------------------------------------------------------------------------------------------------------------------------------------------------
-------------------------------------------------------------------------------------------------------------------------------------------------
-
 # Sample 10: Press Release – Corporate Announcement
 
 **Client Type:** Fictional sustainable fashion brand ("Revive Threads")
